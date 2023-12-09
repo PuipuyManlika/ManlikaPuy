@@ -1,4 +1,4 @@
-[![MasterHead]([https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://puipuymanlika.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://puipuymanlika.io)
 <h1 align="center">Hi 👋, I'm Manlika Throngsiriwat</h1>
 <h3 align="center">Junior developer interested in new technologies and innovations.</h3>
 
