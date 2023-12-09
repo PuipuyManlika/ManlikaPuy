@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puipuymanlika&label=Profile%20views&color=0e75b6&style=flat" alt="puipuymanlika" /> </p>
 
-- 🔭 I achieved a Diplôme d'études collégiales (DEC) in **Computer Science and Technology** from **LaSalle College, Montreal, Canada**
+- 🔭 I achieved a Diplôme d'études collégiales (DEC) in **Computer Science and Technology** from **LaSalle College, Montreal, Canada**.
 
-- 📫 How to reach me **puymanlika@gmail.com**
+- 📫 How to reach me --> **puymanlika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
