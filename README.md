@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manlika Throngsiriwat</h1>
 <h3 align="center">Junior developer interested in new technologies and innovations.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puipuymanlika&label=Profile%20views&color=0e75b6&style=flat" alt="puipuymanlika" /> </p>
 
