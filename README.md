@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puipuymanlika&label=Profile%20views&color=0e75b6&style=flat" alt="puipuymanlika" /> </p>
 
-- 🔭 I’m currently studying at **LaSalle College, Montreal**
-
-- 🌱 I’m currently learning **Swift and React**
+- 🔭 I graduated from **LaSalle College, Montreal**
 
 - 📫 How to reach me **puymanlika@gmail.com**
 
