@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1)](https://puipuymanlika.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif)](https://puipuymanlika.io)
 <h1 align="center">Hi 👋, I'm Manlika Throngsiriwat</h1>
 <h3 align="center">Junior developer interested in new technologies and innovations.</h3>
 
