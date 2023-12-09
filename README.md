@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif)](https://puipuymanlika.io)
+[![MasterHead](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif)](https://puipuymanlika.io)
 <h1 align="center">Hi 👋, I'm Manlika Throngsiriwat</h1>
 <h3 align="center">Junior developer interested in new technologies and innovations.</h3>
 
