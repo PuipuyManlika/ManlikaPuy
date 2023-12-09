@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)](https://puipuymanlika.io)
 <h1 align="center">Hi 👋, I'm Manlika Throngsiriwat</h1>
-<h3 align="center">A final-year Computer Science student interested in new technologies and innovations.</h3>
+<h3 align="center">A Jr. developer interested in new technologies and innovations.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
