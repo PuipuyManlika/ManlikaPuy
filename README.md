@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)](https://puipuymanlika.io)
+[![MasterHead](https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif)](https://puipuymanlika.io)
 <h1 align="center">Hi 👋, I'm Manlika Throngsiriwat</h1>
 <h3 align="center">Junior developer interested in new technologies and innovations.</h3>
 
